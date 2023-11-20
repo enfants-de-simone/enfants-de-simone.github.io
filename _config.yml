@@ -24,9 +24,9 @@ navbar-links:
   Resources:
     - Statuts: "https://enfants-de-simone.org/assets/pdf/statuts_enfants_de_simone.pdf"
     - Règlement Intérieur: "https://enfants-de-simone.org"
-  Comptes rendus:
-    - AG2023:  "https://enfants-de-simone.org/assets/pdf/2023-11-11-CR_AG_Constitutive_signée.pdf"
-    - CA2023-1: "https://enfants-de-simone.org/assets/pdf/2023-11-11-CR_CA_signée.pdf"
+    - Comptes rendus:
+      - AG2023:  "https://enfants-de-simone.org/assets/pdf/2023-11-11-CR_AG_Constitutive_signée.pdf"
+      - CA2023-1: "https://enfants-de-simone.org/assets/pdf/2023-11-11-CR_CA_signée.pdf"
   
 
 ################
