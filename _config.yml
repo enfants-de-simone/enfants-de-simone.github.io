@@ -22,11 +22,10 @@ author: Association Loi 1901
 navbar-links:
   A Propos: "apropos"
   Resources:
-    - Documents de l'association: []
     - Statuts: "https://enfants-de-simone.org/assets/pdf/statuts_enfants_de_simone.pdf"
     - Règlement Intérieur: "https://enfants-de-simone.org"
     - Déclaration en préfecture: "https://enfants-de-simone.org/assets/pdf/recepisse_depot_pref_edited.pdf"
-    - Comptes rendus: []
+  Comptes rendus:
     - AG2023:  "https://enfants-de-simone.org/assets/pdf/2023-11-11-CR_AG_Constitutive_signée.pdf"
     - CA2023-1: "https://enfants-de-simone.org/assets/pdf/2023-11-11-CR_CA_signée.pdf"
   
