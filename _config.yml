@@ -56,7 +56,7 @@ round-avatar: true
 social-network-links:
   email: "contact@enfants-de-simone.org"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.facebook.com/groups/1320899291875250
+  facebook: groups/1320899291875250
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
