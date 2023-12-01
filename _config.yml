@@ -56,7 +56,7 @@ round-avatar: true
 social-network-links:
   email: "contact@enfants-de-simone.org"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
+  facebook: https://www.facebook.com/groups/1320899291875250
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
@@ -67,7 +67,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: les.enfants.de.simone
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
