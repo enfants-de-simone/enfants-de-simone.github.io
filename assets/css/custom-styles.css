@@ -1,0 +1,4 @@
+li.nav-item:nth-child(4) > a:nth-child(1){
+    background-color: #343a40;
+    color: #EAEAEA
+}

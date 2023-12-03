@@ -23,11 +23,16 @@ navbar-links:
   A Propos: "apropos"
   Resources:
     - Statuts: "https://enfants-de-simone.org/assets/pdf/statuts_enfants_de_simone.pdf"
-    - Règlement Intérieur: "https://enfants-de-simone.org"
+#    - Règlement Intérieur: "https://enfants-de-simone.org"
     - Déclaration en préfecture: "https://enfants-de-simone.org/assets/pdf/recepisse_depot_pref_edited.pdf"
+    - Intranet: "https://admin.enfants-de-simone.org"
+    - Tarifs des adhésions: "grille-adhesions/"
   Comptes rendus:
     - AG2023:  "https://enfants-de-simone.org/assets/pdf/2023-11-11-CR_AG_Constitutive_signée.pdf"
     - CA2023-1: "https://enfants-de-simone.org/assets/pdf/2023-11-11-CR_CA_signée.pdf"
+  Adhésions:
+    - Adhésion en ligne: http://admin.enfants-de-simone.org/public/members/new.php
+    
   
 
 ################
@@ -155,8 +160,8 @@ footer-hover-col: "#0085A1"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
