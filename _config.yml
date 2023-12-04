@@ -26,12 +26,11 @@ navbar-links:
 #    - Règlement Intérieur: "https://enfants-de-simone.org"
     - Déclaration en préfecture: "https://enfants-de-simone.org/assets/pdf/recepisse_depot_pref_edited.pdf"
     - Intranet: "https://admin.enfants-de-simone.org"
-    - Tarifs des adhésions: "grille-adhesions/"
-  Comptes rendus:
     - AG2023:  "https://enfants-de-simone.org/assets/pdf/2023-11-11-CR_AG_Constitutive_signée.pdf"
     - CA2023-1: "https://enfants-de-simone.org/assets/pdf/2023-11-11-CR_CA_signée.pdf"
-  Adhésions:
-    - Adhésion en ligne: http://admin.enfants-de-simone.org/public/members/new.php
+    - Tarifs des adhésions: "grille-adhesions/"
+  Adhésions: http://admin.enfants-de-simone.org/public/members/new.php
+    
     
   
 
